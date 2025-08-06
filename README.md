@@ -7,8 +7,7 @@
 ### 🔍 About Me
 
 - 🚀 Passionate about solving real-world problems with code.
-- 🤖 Currently developing an *ML project*: Vector Disease Prediction Model using Python, Pandas & Sklearn.
-- 💬 Building a full-stack chat platform: DaakPion – A Real-Time Chatting App.
+- 🤖 Currently developing an *ML project*
 - 🧠 Constantly exploring: AI, Web Security, APIs, Full-stack Integration, and Performance Optimization.
 - 🎯 Long-term goal: Become a *lead developer* contributing to the Bangladeshi tech ecosystem.
 

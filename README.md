@@ -1,70 +1,77 @@
+# Payel Chowdhury Chitra
+
+**Software Developer** | Chittagong, Bangladesh  
+📧 payelchowdhurychitra@gmail.com | 💼 [GitHub](https://github.com/payelchy580)
+
+---
+
+## 👨‍💻 Professional Summary
+
+Full-stack developer with expertise in web technologies, machine learning, and embedded systems. Passionate about building scalable solutions that address real-world challenges. Currently focused on advancing machine learning applications while contributing to the growth of Bangladesh's technology sector.
+
+---
+
+## 🎯 Current Focus
+
+- **Machine Learning Development**: Building and deploying ML models for practical applications
+- **Full-Stack Engineering**: Developing robust web applications with modern frameworks
+- **Technical Research**: Exploring AI integration, API architecture, web security, and performance optimization
+- **Career Goal**: Advancing toward technical leadership roles within Bangladesh's tech ecosystem
+
+---
+
+## 💼 Technical Expertise
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Hardware & Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0099CC&center=true&width=480&lines=Learning+%26+Building+Everyday.;Turning+ideas+into+digital+realities.;Fusing+creativity+%2B+code+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=payelchy580&show_icons=true&theme=transparent&hide_border=true&title_color=0099CC&icon_color=0099CC&text_color=333&bg_color=ffffff" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payelchy580&layout=compact&theme=transparent&hide_border=true&title_color=0099CC&text_color=333&bg_color=ffffff" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payelchy580&theme=transparent&hide_border=true&stroke=0099CC&ring=0099CC&fire=0099CC&currStreakLabel=333" alt="Contribution Streak"/>
 </p>
 
 ---
 
-### 🔍 About Me
-
-- 🚀 Passionate about solving real-world problems with code.
-- 🤖 Currently developing an *ML project*
-- 🧠 Constantly exploring: AI, Web Security, APIs, Full-stack Integration, and Performance Optimization.
-- 🎯 Long-term goal: Become a *lead developer* contributing to the Bangladeshi tech ecosystem.
-
----
-
-### 🔧 Tech Stack
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=payelchy580&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15&title=Stars,Commits,Repositories,PullRequest" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📫 Get in Touch
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payelchy580&show_icons=true&theme=github_dark&hide=contribs&border_radius=8&title_color=58A6FF&icon_color=58A6FF" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payelchy580&theme=dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=58A6FF" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payelchy580&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
+I'm always open to discussing new projects, innovative ideas, or collaboration opportunities.
+
+**Email**: [payelchowdhurychitra@gmail.com](mailto:payelchowdhurychitra@gmail.com)  
+**GitHub**: [@payelchy580](https://github.com/payelchy580)
 
 ---
 
-### 🏆 Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=payelchy580&theme=flat&title=Stars,Commits,Followers,Repositories,PullRequest&margin-w=12&no-frame=true" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:payelchowdhurychitra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/payelchy580" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### ✍ Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <i>"Continuous learning and building — transforming ideas into digital solutions."</i>
 </p>
